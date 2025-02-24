@@ -16,7 +16,6 @@ Feel free to check out my posts, leave a comment, or just say hello. I’d love 
 
 Thanks again for visiting my blog. I hope you enjoy reading, and don’t forget to subscribe for updates.
 
-Cheers,
 [Lennox]
 ---
 
