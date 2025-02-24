@@ -1,4 +1,3 @@
---- 
 title : my blog : 
 Hi there, and welcome to my little corner of the internet! I’m lennox, and I created this space to share my thoughts, experiences, and passions. Whether you’re here to learn more about my journey, get a glimpse into my day-to-day life, or just explore topics I find interesting, I’m glad you stopped by.
 
@@ -17,5 +16,4 @@ Feel free to check out my posts, leave a comment, or just say hello. I’d love 
 Thanks again for visiting my blog. I hope you enjoy reading, and don’t forget to subscribe for updates.
 
 [Lennox]
----
 
